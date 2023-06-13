@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @apgonzalesf
-- 👀 I’m interested in develop web applications , Currently  I'm working projects in Java 
-- 🌱 I’m currently learning Django 
+- 👀 I’m interested in develop web applications , Currently  I'm working projects in Java  
 - 📫 How to reach me apgonzalesf@gmail.com
 
 <!---
