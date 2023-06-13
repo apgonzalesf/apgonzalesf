@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @apgonzalesf
-- 👀 I’m interested in develop web applications , Currently  I'm working projects in Java  
+- 👀 I’m interested in develop web applications , Currently  I'm working projects in Java  and Angular
 - 📫 How to reach me apgonzalesf@gmail.com
 
 <!---
